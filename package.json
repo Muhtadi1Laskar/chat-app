@@ -14,7 +14,7 @@
   "author": "Mohammad Muhtadi Laskar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "moment": "^2.23.0",
     "socket.io": "^2.2.0"
   },
