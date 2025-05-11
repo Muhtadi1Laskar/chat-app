@@ -7,6 +7,8 @@ const {
     generateLocationMessage
 } = require('./utils/message');
 
+
+
 const publicPath = path.join(__dirname, '../public');
 const PORT = process.env.PORT || 3000;
 let app = express();
